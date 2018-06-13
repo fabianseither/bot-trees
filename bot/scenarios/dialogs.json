@@ -1,9 +1,9 @@
 {
 	"dialogs": [
 	{
-			"path": "/stomachPain",
-			"regex": "^stomach",
-			"scenario": "stomachPain"
+			"path": "/service",
+			"regex": "^service",
+			"scenario": "serviceDialog"
 		},
 		{
 			"path": "/smoking",
